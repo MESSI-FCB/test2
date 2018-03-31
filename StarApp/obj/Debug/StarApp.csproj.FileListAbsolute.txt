@@ -6,3 +6,9 @@ E:\A0001Work\Messi\StarApp\bin\Debug\Common.Util.pdb
 E:\A0001Work\Messi\StarApp\obj\Debug\StarApp.csprojResolveAssemblyReference.cache
 E:\A0001Work\Messi\StarApp\obj\Debug\StarApp.exe
 E:\A0001Work\Messi\StarApp\obj\Debug\StarApp.pdb
+D:\AWorkPlace\test\StarApp\bin\Debug\StarApp.exe.config
+D:\AWorkPlace\test\StarApp\obj\Debug\StarApp.exe
+D:\AWorkPlace\test\StarApp\obj\Debug\StarApp.pdb
+D:\AWorkPlace\test\StarApp\obj\Debug\StarApp.csprojResolveAssemblyReference.cache
+D:\AWorkPlace\test\StarApp\bin\Debug\StarApp.exe
+D:\AWorkPlace\test\StarApp\bin\Debug\StarApp.pdb
