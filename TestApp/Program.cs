@@ -1,20 +1,16 @@
-﻿
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Xml;
 
-namespace StarApp
+namespace TestApp
 {
     class Program
     {
         static void Main(string[] args)
         {
-          
-            //12332232323
-            //444
+            ///hahhahhahhhh
         }
     }
 }
